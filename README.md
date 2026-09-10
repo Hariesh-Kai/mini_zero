@@ -2,6 +2,8 @@
 
 A dependency-free command line assistant with a small command router. Time and date use India Standard Time (IST, `Asia/Kolkata`).
 
+Version documentation: [Zero v0.1](version/zerov0.1.md)
+
 ## Run
 
 ```bash
